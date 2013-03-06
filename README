@@ -1,0 +1,4 @@
+Simple example of how to use yacc/bison and lex/flex.
+
+Source files in:
+  git@github.com:crguezl/yacc-examples.git
